@@ -7,7 +7,7 @@ This project involves combining multiple CSV files into a single dataset, cleani
 2. **Classification:** User visit mode prediction.
 3. **Recommendations:** Personalized attraction suggestions.
 
-Additionally, a **Flask application** has been built to provide a user-friendly interface for interacting with the trained models.
+Additionally, a **Streamlit application** has been built to provide a user-friendly interface for interacting with the trained models.
 
 ---
 
@@ -74,3 +74,23 @@ Develop a recommendation system to suggest tourist attractions based on a user's
 
 ---
 
+## Streamlit Application
+A **Streamlit app** has been developed to provide a user-friendly interface for interacting with the machine learning models. Users can input details and receive predictions for:
+- Attraction ratings.
+- Visit modes.
+- Recommended attractions.
+
+---
+
+## Technologies Used
+- **Python** (Pandas, NumPy, Scikit-Learn, Joblib) for data processing and model training.
+- **Streamlit** for building the interactive web application.
+
+---
+
+## How to Run the Project
+1. Clone the repository from GitHub.
+2. Install required dependencies using `pip install -r requirements.txt`.
+4. Run the Streamlit application using `streamlit run app.py`.
+
+---
