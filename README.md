@@ -1,6 +1,7 @@
 # Mini_Project_4
+Tourism Experience Analytics: Classification, Prediction, and Recommendation System:
 
-Project Overview
+Project Overview;
 This project involves combining multiple CSV files into a single dataset, integrating it with MySQL using XAMPP, cleaning the dataset, and training machine learning models for three key objectives:
 
 Regression: Predicting attraction ratings.
