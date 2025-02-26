@@ -23,6 +23,8 @@ Visit details: Year, month, mode of visit (e.g., business, family, friends).
 Attraction attributes: Type (e.g., beaches, ruins), location, previous average ratings.
 Target:
 Predicted rating (on a scale, e.g., 1-5).
+
+
 Objective 2: Classification - User Visit Mode Prediction
 Aim:
 Create a classification model to predict the mode of visit (e.g., business, family, couples, friends) based on user and attraction data.
@@ -36,6 +38,8 @@ Attraction characteristics: Type, popularity, previous visitor demographics.
 Historical visit data: Month, year, previous visit modes.
 Target:
 Visit mode categories (e.g., Business, Family, Couples, Friends, etc.).
+
+
 Objective 3: Recommendations - Personalized Attraction Suggestions
 Objective:
 Develop a recommendation system to suggest tourist attractions based on a user's historical preferences and similar users’ preferences.
