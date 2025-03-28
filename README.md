@@ -73,37 +73,6 @@ Create a classification model to predict the mode of visit (e.g., business, fami
 
 ---
 
-## Objective 4: Visualization - Data Visualizations for Personalized Attraction Recommendation
-
-### **Objective:**
-Focuses on visualizing key aspects of the tourist attraction dataset to provide insights that support the development and evaluation of our personalized attraction recommendation system.
-
-### **Use Cases:**
-- **Understand Data Distributions:** Visualize the distribution of user ratings to understand user preferences and rating patterns.
-- **Identify Popular Trends:** Highlight the most popular attraction types, visit modes, and cities to understand common tourist interests.
-- **Explore Feature Correlations:** Investigate correlations between numerical features to identify potential relationships that can inform recommendation algorithms.
-- **Provide Visual Insights:** Offer clear and informative visualizations to facilitate data understanding and communication of findings.
-
-### **Types of Visualizations Approaches:**
-1.  **Distribution of Ratings:**
-    * A histogram showing the frequency of different rating values.
-    * This helps understand the overall sentiment of users towards attractions.
-
-2.  **Top 10 Attraction Types:**
-    * A bar plot displaying the top 10 most frequent attraction types.
-    * This reveals the most popular categories of attractions.
-
-3.  **Top 10 Visit Modes:**
-    * A bar plot showing the top 10 most common visit modes.
-    * This provides insights into how users prefer to experience attractions.
-
-4.  **Correlation Heatmap:**
-    * A heatmap illustrating the correlation matrix of numerical features.
-    * This helps identify relationships between features such as ratings, popularity, and other numerical attributes.
-
-5.  **Top 10 Cities:**
-    * A barplot showing the top 10 cities with most attractions or visits.
-    * This shows the most popular destination cities.
 
 ### **Output:**
 - Gain a deeper understanding of the dataset's characteristics.
@@ -119,7 +88,6 @@ A **Streamlit app** has been developed to provide a user-friendly interface for 
 - Recommended attractions.
 - Attraction ratings.
 - Visit modes.
-- Visualization on attraction recommendation.
 
 ---
 
