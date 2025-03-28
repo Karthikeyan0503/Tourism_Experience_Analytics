@@ -6,7 +6,6 @@ This project involves combining multiple CSV files into a single dataset, cleani
 1. **Recommendations:** Personalized attraction suggestions.
 2. **Regression:** Predicting attraction ratings.
 3. **Classification:** User visit mode prediction.
-4. **Visualization:** Data Visualizations for Personalized Attraction Recommendation
 
 Additionally, a **Streamlit application** has been built to provide a user-friendly interface for interacting with the trained models.
 
